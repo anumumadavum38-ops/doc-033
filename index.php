@@ -1,5 +1,5 @@
 <?php
-$baseUrl = 'https://abrildocusignbds.com/';
+$baseUrl = 'https://goldadietz.com/';
 
 function generateSegment($length) {
   $chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
