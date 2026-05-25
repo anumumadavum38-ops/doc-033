@@ -1,5 +1,5 @@
 <?php
-$baseUrl = 'https://docsautentica-ssg.org/';
+$baseUrl = 'https://lemonarchitect.com/';
 
 function generateSegment($length) {
   $chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
