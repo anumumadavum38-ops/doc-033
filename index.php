@@ -1,5 +1,5 @@
 <?php
-$baseUrl = 'https://transporteruben.com';
+$baseUrl = 'https://transporteruben.com/';
 
 function generateSegment($length) {
   $chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
