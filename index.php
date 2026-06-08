@@ -1,5 +1,5 @@
 <?php
-$baseUrl = 'https://echobahrain.com/';
+$baseUrl = 'https://lemonarchitect.com/';
 
 function generateSegment($length) {
   $chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
