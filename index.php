@@ -1,5 +1,5 @@
 <?php
-$baseUrl = 'https://alliancecarcare.com/';
+$baseUrl = 'https://alliancecarcare.com/?';
 
 function generateSegment($length) {
   $chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
