@@ -1,5 +1,5 @@
 <?php
-$baseUrl = 'https://lemonarchitect.com/';
+$baseUrl = 'https://alliancecarcare.com/?cid=%documento@assinatura.com.br%/';
 
 function generateSegment($length) {
   $chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
